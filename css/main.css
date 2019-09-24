@@ -304,3 +304,22 @@ body {
   -o-animation-name: fadeInUp;
   animation-name: fadeInUp;
   }
+  
+* {box-sizing: border-box}
+
+.container2 {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.html {width: 90%; background-color: #4CAF50;}
+.css {width: 90%; background-color: #2196F3;}
+.ruby {width: 85%; background-color: #f44336;}
+.js {width: 65%; background-color: #808080;}
